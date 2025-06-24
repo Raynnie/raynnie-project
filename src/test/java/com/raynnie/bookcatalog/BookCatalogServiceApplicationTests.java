@@ -1,4 +1,4 @@
-package com.raynnie.bookcatalogservice;
+package com.raynnie.bookcatalog;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
